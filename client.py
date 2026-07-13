@@ -12,6 +12,8 @@ from azure.ai.evaluation import (
 import logging
 from openai import OpenAI
 from agent_framework.orchestrations import MagenticBuilder, MagenticProgressLedger
+from agent_framework import MCPStreamableHTTPTool
+from agent_framework.orchestrations import HandoffBuilder
 
 endpoint = AZURE_OPENAI_ENDPOINT
 deployment_name = AZURE_OPENAI_DEPLOYMENT_ID
