@@ -1,0 +1,23 @@
+======================================
+  CONTOSO OBSERVATORIES - SESSION REPORT
+======================================
+Date:           2026-07-13 12:55
+Observer:       User
+Event:          Perseids Meteor Shower
+Location:       north_america
+
+NEXT VISIBLE EVENT
+  Event:        Perseids Meteor Shower
+  Date:         08-12
+
+TELESCOPE BOOKING
+  Tier:         premium
+  Hours:        3
+  Hourly Rate:  $300.00
+  Priority:     high
+  Multiplier:   1.75x
+
+COST SUMMARY
+  Base Cost:    $900.00
+  Total Cost:   $1575.00
+======================================
