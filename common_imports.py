@@ -8,3 +8,6 @@ from rich import print
 from rich.logging import RichHandler
 from rich.panel import Panel
 from rich.table import Table
+from dataclasses import dataclass
+from typing_extensions import Never
+from typing import cast
